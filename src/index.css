@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.containerr{
+
+  background-color: rgb(17, 17, 17);
+}
+.lucide-plus:hover{
+  background-color: rgb(2, 107, 2);
+  cursor: pointer;
+}
+.lucide-trash-2:hover{
+  cursor: pointer;
+}
+.lucide-pencil:hover{
+  cursor: pointer;
+
+}
+*{
+  margin: 0;
+  padding: 0;
+}
